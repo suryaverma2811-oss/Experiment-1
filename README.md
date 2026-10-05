@@ -1,12 +1,12 @@
 # Experiment-1
-# 🚀 [Project Name]
+# 🚀 [Experiment 1]
 
-> *A 1-sentence catchy tagline explaining what your project does.*
+> *Nothing just a Experiment here.*
 
 ---
 
-## 📌 Problem Statement
-*Describe the issue you are tackling in 2-3 sentences. Who is affected, and why does current technology fall short?*
+## 📌 Understanding Git repository 
+*I don't know how to use it but now learning how to use one *
 
 ---
 
